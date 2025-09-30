@@ -16,6 +16,10 @@
 
 * [workspace](https://github.com/npm/cli/releases/tag/arborist-v9.1.4): `@npmcli/arborist@9.1.4`
 
+### Dependencies
+
+* [workspace](https://github.com/npm/cli/releases/tag/arborist-v9.1.6): `@npmcli/arborist@9.1.6`
+
 ## [10.1.7](https://github.com/npm/cli/compare/libnpmexec-v10.1.6...libnpmexec-v10.1.7) (2025-09-23)
 ### Bug Fixes
 * [`1eedf82`](https://github.com/npm/cli/commit/1eedf82f2a36df193a51dca2c07fdc82dcb18a68) [#8576](https://github.com/npm/cli/pull/8576) use @npmcli/package-json to parse package.json (@wraithgar)
